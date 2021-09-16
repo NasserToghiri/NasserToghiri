@@ -21,10 +21,7 @@
 ![css](./css.svg) ![bootstrap](./bootstrap.svg) ![ajax](./ajax.svg) ![react](./react.svg) ![jquery](./jquery.svg) ![javascript](./javascript.svg)
 </span>
 
-<hr>
-
-
-<a href="https://codepen.io/nasser_toghiri"> ![codepen icon](./codepen-icon.svg) <a>
+&nbsp; <a href="https://codepen.io/nasser_toghiri"> ![codepen icon](./codepen-icon.svg) <a>
 
 <hr>
 
@@ -48,10 +45,7 @@
  
 </span>
 
-<hr>
+&nbsp; <a href="https://www.linkedin.com/in/nasser-toghiri/"> ![linkedin](./linkedin-icon.svg) </a> <a href="https://www.behance.net/nassertoghiri"> ![behance icon](./behance-icon.svg) </a> <a href="https://www.figma.com/@nasser_toghiri"> ![figma icon](./figma-icon.svg) </a>
 
 
- <a href="https://www.linkedin.com/in/nasser-toghiri/"> ![linkedin](./linkedin-icon.svg) </a> <a href="https://www.behance.net/nassertoghiri"> ![behance icon](./behance-icon.svg) </a> <a href="https://www.figma.com/@nasser_toghiri"> ![figma icon](./figma-icon.svg) </a>
-
-<hr>
 
