@@ -1,6 +1,5 @@
  <p align="center"> 
 
-
 ![header](./header.svg)
 
  </p>
@@ -42,7 +41,9 @@
 >  I open less graphic software and design the required works with figma.
 >  You can see my portfolio in my accounts on behance and FIGMA sites
 
-![header](./ux-research.svg) ![header](./prototyping.svg) ![header](./systems-design.svg) ![header](./figma.svg) ![header](./testing.svg) 
+  <p> 
+  ![header](./ux-research.svg) ![header](./prototyping.svg) ![header](./systems-design.svg) ![header](./figma.svg) ![header](./testing.svg) 
+  </p>
  
 </span>
 
